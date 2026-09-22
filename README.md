@@ -27,15 +27,6 @@
 
 ---
 
-## GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yurayatjm&show_icons=false&theme=clean&hide_border=true&count_private=true" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurayatjm&layout=compact&theme=clean&hide_border=true" alt="Top Languages" height="150"/>
-</div>
-
----
-
 ## Contact Information
 
 * **Email:** [your.email@example.com](mailto:your.email@example.com)
