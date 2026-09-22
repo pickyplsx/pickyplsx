@@ -29,9 +29,7 @@ Welcome to my GitHub profile! I am a system developer specializing in end-to-end
 
 ## Contact Information
 
-* **Email:** [your.email@example.com](mailto:your.email@example.com)
-* **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com)
-* **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
+* **Email:** [chatchay.yrt@gmail.com](mailto:chatchay.yrt@gmail.com)
 
 ---
 <p align="center">
