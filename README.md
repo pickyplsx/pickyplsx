@@ -1,8 +1,8 @@
-# Hi there, I'm หมีกล้วย 👋
+# Hi there, I'm Meekluay 👋
 
 ### Full-Stack Developer
 
-ยินดีต้อนรับสู่โปรไฟล์ GitHub ของผมครับ ผมเป็นนักพัฒนาระบบที่มีความเชี่ยวชาญในการพัฒนา Web Application แบบครบวงจร มุ่งเน้นการเขียนโค้ดที่สะอาด มีประสิทธิภาพ และดูแลรักษาง่าย
+Welcome to my GitHub profile! I am a system developer specializing in end-to-end Web Application development. I am committed to writing clean, efficient, and maintainable code to solve real-world business challenges.
 
 ---
 
@@ -20,10 +20,10 @@
 
 ## Areas of Expertise
 
-* **Web Application Development:** พัฒนาระบบเว็บแอปพลิเคชันแบบ Full-Stack
-* **Database Architecture:** ออกแบบและบริหารจัดการฐานข้อมูล Relational Database ด้วย MySQL
-* **API Integration:** ออกแบบและเชื่อมต่อ RESTful APIs สำหรับประมวลผลข้อมูล
-* **Responsive Design:** พัฒนาส่วนต่อประสานผู้ใช้ (UI) ที่รองรับการใช้งานบนทุกอุปกรณ์
+* **Web Application Development:** Building robust, full-stack web applications from concept to deployment.
+* **Database Architecture:** Designing and managing scalable relational databases using MySQL.
+* **API Integration & Development:** Designing and integrating RESTful APIs for seamless data processing.
+* **Responsive Web Design:** Developing user interfaces that deliver consistent user experiences across all devices.
 
 ---
 
