@@ -16,6 +16,8 @@ Welcome to my GitHub profile! I am a system developer specializing in end-to-end
 ![REST API](https://img.shields.io/badge/REST_API-0055DA?style=flat-square&logo=fastapi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=pickyplsx)](https://git.io/streak-stats)
+
 ---
 
 ## Areas of Expertise
